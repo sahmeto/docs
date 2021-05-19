@@ -1,6 +1,20 @@
 # Table of contents
 
-* [معرفی سهمتو](README.md)
-* [صفحه نماد](sfhh-nmad.md)
-* [صفحه رمز ارز](sfhh-rmz-arz.md)
+* [مرکز راهنما](README.md)
+* [معرفی سهمتو](sfhh-nmad/README.md)
+  * [صفحه اول](sfhh-nmad/sfhh-awl.md)
+  * [صفحه نماد](sfhh-nmad/sfhh-rmz-arz.md)
+  * [صفحه کانال](sfhh-nmad/sfhh-kanal.md)
+  * [صفحه رمز ارز](sfhh-nmad/sfhh-rmz-arz-1.md)
+  * [افزونه سهمتو](sfhh-nmad/afzwnh-shmtw.md)
+* [خدمات عمومی سهمتو](khdmat-amwmy-shmtw/README.md)
+  * [نمادها](khdmat-amwmy-shmtw/nmadha.md)
+  * [کانال های برتر](khdmat-amwmy-shmtw/kanal-hay-brtr.md)
+  * [نتایج زنده](khdmat-amwmy-shmtw/ntayj-zndh.md)
+  * [بازار](khdmat-amwmy-shmtw/bazar.md)
+* [خدمات اختصاصی](khdmat-akhtsasy/README.md)
+  * [سبدگردانی](khdmat-akhtsasy/sbdgrdany.md)
+  * [کانال گرافی](khdmat-akhtsasy/kanal-grafy.md)
+  * [آزمون ریسک](khdmat-akhtsasy/aazmwn-rysk.md)
+  * [مشاوره](khdmat-akhtsasy/mshawrh.md)
 
