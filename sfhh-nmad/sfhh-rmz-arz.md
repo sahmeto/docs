@@ -62,8 +62,6 @@
 
 ![](../.gitbook/assets/hs-hwb-w-mnfy.png)
 
-یشیش
-
 
 
 
