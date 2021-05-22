@@ -2,6 +2,7 @@
 
 * [مرکز راهنما](README.md)
 * [معرفی سهمتو](sfhh-nmad/README.md)
+  * [اصطلاحات سهمتو](sfhh-nmad/astlahat-shmtw.md)
   * [صفحه اول](sfhh-nmad/sfhh-awl.md)
   * [صفحه نماد](sfhh-nmad/sfhh-rmz-arz.md)
   * [صفحه کانال](sfhh-nmad/sfhh-kanal.md)
