@@ -26,6 +26,10 @@
 
 ![](../.gitbook/assets/kanal-hay-brtr.png)
 
+1- پربازده ترین کانال‌های بورسی : 
+
+### 
+
 
 
 
