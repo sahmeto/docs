@@ -13,13 +13,9 @@
   * [تهیه اشتراک](nahyh-karbry/thyh-ashtrak.md)
   * [پروفایل](nahyh-karbry/prwfayl.md)
 * [خدمات عمومی سهمتو](khdmat-amwmy-shmtw/README.md)
-  * [نمادها](khdmat-amwmy-shmtw/nmadha.md)
   * [کانال های برتر](khdmat-amwmy-shmtw/kanal-hay-brtr.md)
-  * [نتایج زنده](khdmat-amwmy-shmtw/ntayj-zndh.md)
-  * [بازار](khdmat-amwmy-shmtw/bazar.md)
 * [خدمات اختصاصی](khdmat-akhtsasy/README.md)
   * [سبدگردانی](khdmat-akhtsasy/sbdgrdany.md)
   * [کانال گرافی](khdmat-akhtsasy/kanal-grafy.md)
-  * [آزمون ریسک](khdmat-akhtsasy/aazmwn-rysk.md)
   * [مشاوره](khdmat-akhtsasy/mshawrh.md)
 
