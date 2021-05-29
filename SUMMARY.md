@@ -15,7 +15,7 @@
 * [خدمات عمومی سهمتو](khdmat-amwmy-shmtw/README.md)
   * [کانال های برتر](khdmat-amwmy-shmtw/kanal-hay-brtr.md)
 * [خدمات اختصاصی](khdmat-akhtsasy/README.md)
-  * [سبدگردانی](khdmat-akhtsasy/sbdgrdany.md)
+  * [سبد گرافی](khdmat-akhtsasy/sbdgrdany.md)
   * [کانال گرافی](khdmat-akhtsasy/kanal-grafy.md)
   * [مشاوره](khdmat-akhtsasy/mshawrh.md)
 
