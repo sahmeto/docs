@@ -17,5 +17,4 @@
 * [خدمات اختصاصی](khdmat-akhtsasy/README.md)
   * [سبد گرافی](khdmat-akhtsasy/sbdgrdany.md)
   * [کانال گرافی](khdmat-akhtsasy/kanal-grafy.md)
-  * [مشاوره](khdmat-akhtsasy/mshawrh.md)
 
