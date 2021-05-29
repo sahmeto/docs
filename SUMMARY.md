@@ -14,7 +14,7 @@
   * [پروفایل](nahyh-karbry/prwfayl.md)
 * [خدمات عمومی سهمتو](khdmat-amwmy-shmtw/README.md)
   * [کانال های برتر](khdmat-amwmy-shmtw/kanal-hay-brtr.md)
-* [خدمات اختصاصی](khdmat-akhtsasy/README.md)
+* [خدمات شخصی](khdmat-akhtsasy/README.md)
   * [سبد گرافی](khdmat-akhtsasy/sbdgrdany.md)
   * [کانال گرافی](khdmat-akhtsasy/kanal-grafy.md)
 
